@@ -23,8 +23,7 @@ A trained machine learning model
 # 🔄 Workflow
 
 ## 1️⃣ Data Import
-! [Data set Overview](Image/Customer Churn Data.jpg)
-
+![Data set Overview](Image/Customer%20Churn%20Data.jpg)
 
 Dataset contains:
 
